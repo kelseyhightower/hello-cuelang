@@ -1,0 +1,10 @@
+{
+  "http": {
+    "listen_port": 10080
+  },
+  "database": {
+    "host": "127.0.0.1",
+    "user": "app",
+    "password": "p@ssw0rd"
+  }
+}

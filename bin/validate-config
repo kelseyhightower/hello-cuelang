@@ -1,0 +1,3 @@
+#!/bin/sh
+
+cue vet config.json config-validation.cue
