@@ -1,8 +1,8 @@
 #Config: {
-	http: {
-	  listen_port: 8080
-	}
-	database: {
+  http: {
+    listen_port: 8080
+  }
+  database: {
     host:     !="" // must be specified and non-empty
     user:     !="" // must be specified and non-empty
     password: !="" // must be specified and non-empty
